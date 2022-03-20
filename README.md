@@ -2,4 +2,5 @@ This is a simple script to query a list of Rite Aid stores for Vaccine availabil
 
 by
 
-Carmina Cruz
+Carmina Cru
+created ueccbranch
